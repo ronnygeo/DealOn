@@ -1,4 +1,4 @@
-# README #
+# DEALON #
 
 DealOn is a website that provides exclusive deals for a limited period of time.
 
